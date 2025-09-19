@@ -1,0 +1,7 @@
+C:\Users\labc205\Desktop\prueba\prueba programacion\prueba programacion\obj\Debug\prueba programacion.csproj.AssemblyReference.cache
+C:\Users\labc205\Desktop\prueba\prueba programacion\prueba programacion\obj\Debug\prueba programacion.csproj.CoreCompileInputs.cache
+C:\Users\labc205\Desktop\prueba\prueba programacion\prueba programacion\bin\Debug\prueba programacion.exe.config
+C:\Users\labc205\Desktop\prueba\prueba programacion\prueba programacion\bin\Debug\prueba programacion.exe
+C:\Users\labc205\Desktop\prueba\prueba programacion\prueba programacion\bin\Debug\prueba programacion.pdb
+C:\Users\labc205\Desktop\prueba\prueba programacion\prueba programacion\obj\Debug\prueba programacion.exe
+C:\Users\labc205\Desktop\prueba\prueba programacion\prueba programacion\obj\Debug\prueba programacion.pdb
