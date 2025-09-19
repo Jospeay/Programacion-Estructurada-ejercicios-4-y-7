@@ -1,0 +1,15 @@
+C:\Users\galea\OneDrive\Desktop\CS\practica2\bin\Debug\net9.0\practica2.exe
+C:\Users\galea\OneDrive\Desktop\CS\practica2\bin\Debug\net9.0\practica2.deps.json
+C:\Users\galea\OneDrive\Desktop\CS\practica2\bin\Debug\net9.0\practica2.runtimeconfig.json
+C:\Users\galea\OneDrive\Desktop\CS\practica2\bin\Debug\net9.0\practica2.dll
+C:\Users\galea\OneDrive\Desktop\CS\practica2\bin\Debug\net9.0\practica2.pdb
+C:\Users\galea\OneDrive\Desktop\CS\practica2\obj\Debug\net9.0\practica2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galea\OneDrive\Desktop\CS\practica2\obj\Debug\net9.0\practica2.AssemblyInfoInputs.cache
+C:\Users\galea\OneDrive\Desktop\CS\practica2\obj\Debug\net9.0\practica2.AssemblyInfo.cs
+C:\Users\galea\OneDrive\Desktop\CS\practica2\obj\Debug\net9.0\practica2.csproj.CoreCompileInputs.cache
+C:\Users\galea\OneDrive\Desktop\CS\practica2\obj\Debug\net9.0\practica2.sourcelink.json
+C:\Users\galea\OneDrive\Desktop\CS\practica2\obj\Debug\net9.0\practica2.dll
+C:\Users\galea\OneDrive\Desktop\CS\practica2\obj\Debug\net9.0\refint\practica2.dll
+C:\Users\galea\OneDrive\Desktop\CS\practica2\obj\Debug\net9.0\practica2.pdb
+C:\Users\galea\OneDrive\Desktop\CS\practica2\obj\Debug\net9.0\practica2.genruntimeconfig.cache
+C:\Users\galea\OneDrive\Desktop\CS\practica2\obj\Debug\net9.0\ref\practica2.dll
