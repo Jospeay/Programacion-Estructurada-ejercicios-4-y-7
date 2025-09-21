@@ -22,7 +22,7 @@ namespace prueba_programacion
             else return "Persona adulto mayor";
         }
     }
-    }
-    
+}   
+
 
 
