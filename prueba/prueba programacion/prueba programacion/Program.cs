@@ -10,12 +10,9 @@ namespace prueba_programacion
     {
         static void Main()
         {  
-            while (true)
-            {
-                Console.Write("Ingrese su edad: ");
-                int edad = int.Parse(Console.ReadLine());
-                Console.WriteLine(ClasificarEdad(edad));
-            }
+            Console.Write("Ingrese su edad: ");
+            int edad = int.Parse(Console.ReadLine());
+            Console.WriteLine(ClasificarEdad(edad));
         }
         static string ClasificarEdad(int edad)
         {
@@ -27,4 +24,5 @@ namespace prueba_programacion
     }
     }
     
+
 
