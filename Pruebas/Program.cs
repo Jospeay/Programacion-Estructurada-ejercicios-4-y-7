@@ -1,4 +1,5 @@
-﻿using System;
+using System;
+using System.Linq;
 
 class vocales
 {
@@ -11,10 +12,29 @@ class vocales
         }
         return contador;
     }
+
     static void Main()
     {
-        Console.Write("Ingrese una cadena de texto: ");
-        string cadena = Console.ReadLine();
+        string cadena = "";
+
+        while (true)
+        {
+            Console.Write("Ingrese una cadena de texto: ");
+            cadena = Console.ReadLine();
+
+            if (string.IsNullOrWhiteSpace(cadena)) 
+            {
+                Console.WriteLine("Entrada inválida.");
+            }
+            else if (cadena.Any(char.IsDigit))
+            {
+                Console.WriteLine("Entrada inválida.");
+            }
+            else
+            {
+                break;
+            }
+        }
 
         Console.WriteLine($"Cantidad de vocales: {ContarVocales(cadena)}");
     }
