@@ -8,7 +8,7 @@ class vocales
         int contador = 0;
         foreach (char vocal in oracion.ToLower())
         {
-            if ("aeiou".Contains(vocal)) contador++;
+            if ("aeiouAEIOU".Contains(vocal)) contador++;
         }
         return contador;
     }
@@ -39,3 +39,4 @@ class vocales
         Console.WriteLine($"Cantidad de vocales: {ContarVocales(cadena)}");
     }
 }
+
